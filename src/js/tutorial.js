@@ -7,8 +7,6 @@ document
 
     // Fetch data from Public APIs
     const response = await fetch(
-      // 10 users
-      // "https://jsonplaceholder.typicode.com/users"
       // 5000 photos
       "https://jsonplaceholder.typicode.com/photos"
     );
